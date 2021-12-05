@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ravik
+- 👀 I’m interested in game and VR development
+- 🌱 I’m currently learning C++
+- 📫 How to reach me ravikgames1111@gmail.com
